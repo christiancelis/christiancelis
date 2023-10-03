@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Celis</h1>
-<h3 align="center">A Passionate Backend Developer :  From Colombia 🇨🇴</h3>
+<h3 align="center">A Passionate Backend Developer 🇨🇴</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christiancelis" alt="christiancelis" /></a> </p>
 
